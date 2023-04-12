@@ -1,0 +1,22 @@
+
+.box{
+   width: 500px;
+   height: 200px;
+   margin: 50px auto;
+   background-color: aqua;
+   clear: both;
+}
+
+.red{
+   border:2px rgb(236, 12, 12) dashed;
+}
+ .yellow{
+   background-color: yellow;
+    border: 2px red dotted; 
+ }
+.blue{
+   border: 20px blue inset;
+}
+.black{
+   border-left: 8px black solid;
+}
